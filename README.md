@@ -6,6 +6,12 @@ In this paper, we are proposing principal component regression models, which mea
 
 Assessing and predicting iron quality, in general, requires analyzing the complex relationship between variables, which demands domain expertise as well as chemical analysis. This process is time-consuming. However, machine learning algorithms can analyze the complex relationships and nonlinearity in the data with ease. Moreover, machine learning models are adaptable to changes in the model parameters, and they exhibit high scalability, allowing them to operate on large datasets. By leveraging machine learning algorithms, mining processing can be optimized in terms of manpower and operational costs.
 
+Note: 
+  Since our Dataset is larger than 25mb, we have uploaded the source file to Google drive folder and sharing the link here. 
+  Also attached the Project Explanation Recording video in the Google Drive folder shared below.
+
+                          https://drive.google.com/drive/folders/1ZMsTOghWVYFU293lkv11Wji2CwvA4j-c?usp=drive_link
+
 Student Details:
 
 Name: Bharath Kumar Nakka
